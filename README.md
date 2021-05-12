@@ -7,7 +7,6 @@ In this project I used Flight price prediction data set. from this data i tried 
   * [Motivation](#motivation)
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
-  * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
 ## Overview
